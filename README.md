@@ -17,7 +17,7 @@ A simple Tic-Tac-Toe game implemented in Java. This project includes a graphical
 ## Getting Started
 
 1. Clone the repository:
-   ``` bash git clone https://github.com/YourUsername/YourRepoName.git ```
+   ``` bash git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/ElinArtem/TicTacTow-on-Java.git) ```
    
 2. Open the project in your preferred Java IDE.
 3. Run the TicTacToeGame.java file to start the game.
